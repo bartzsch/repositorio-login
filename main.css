@@ -1,0 +1,39 @@
+body{
+background: linear-gradient(90deg,#00BFFF,#00FF00);
+
+
+
+}
+
+
+.login{
+   background-color: white; 
+   width:400px;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   margin: 0 auto;
+flex-direction: column;
+padding-top: 50px;
+margin-top: 10%;
+
+}
+.flex{
+display: flex;
+text-align: center;
+align-items: center;
+gap: 10px;
+}
+
+.borda{
+border: 1px solid purple ;
+
+
+
+}
+.roxo{
+background: rgb(235, 168, 235);
+
+
+}
+
